@@ -21,3 +21,4 @@ You can also verify a single signature using (public keys, signature, message) b
 Syntax: `python verify.py -s <signature> -p <public_key> -m <message>`
   
 You can also play around with editing the json files to check if wrong combination fails verification or not.
+Replit demo - https://replit.com/@PranabSingh20/Schnorr
